@@ -2,8 +2,10 @@
 
 This repository contains the code to implement the Away-Step Frank Wolfe and Boosted Frank-Wolfe algorithms, which are used for solving a simple quadratic function and classification problem using logistic regression on the Gisette dataset. The implementation references several research papers as sources for the algorithm.
 
-[1] Lacoste-Julien, Simon, and Martin Jaggi. "On the global linear convergence of Frank-Wolfe optimization variants." Advances in neural information processing systems 28 (2015).\n
-[2] Combettes, Cyrille, and Sebastian Pokutta. "Boosting Frank-Wolfe by chasing gradients." International Conference on Machine Learning. PMLR, 2020.\n
+[1] Lacoste-Julien, Simon, and Martin Jaggi. "On the global linear convergence of Frank-Wolfe optimization variants." Advances in neural information processing systems 28 (2015).
+
+[2] Combettes, Cyrille, and Sebastian Pokutta. "Boosting Frank-Wolfe by chasing gradients." International Conference on Machine Learning. PMLR, 2020.
+
 [3] Braun, Gábor, et al. "Conditional gradient methods." arXiv preprint arXiv:2211.14103 (2022).
 
 **Gisette Dataset:**
