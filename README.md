@@ -1,6 +1,6 @@
 # Frank-Wolfe-Implementation
 
-This repository contains the code to implement the Away-Step Frank Wolfe and Boosted Frank-Wolfe algorithms, which are used for solving a simple quadratic function and classification problem using logistic regression on the Gisette dataset. The implementation references several research papers as sources for the algorithm.
+This repository contains the code to implement the Away-Step Frank Wolfe and Boosted Frank-Wolfe algorithms, which are used for solving a simple quadratic function and classification problem using logistic regression on the Gisette dataset. Following papers were used as references:
 
 [1] Lacoste-Julien, Simon, and Martin Jaggi. "On the global linear convergence of Frank-Wolfe optimization variants." Advances in neural information processing systems 28 (2015).
 
