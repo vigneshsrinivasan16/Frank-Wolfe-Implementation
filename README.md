@@ -1,4 +1,4 @@
-# Frank-Wolfe-Implementation
+# Conditional Gradient Methods
 
 This repository contains the code to implement the Away-Step Frank Wolfe and Boosted Frank-Wolfe algorithms, which are used for solving a simple quadratic function and classification problem using logistic regression on the Gisette dataset. Following papers were used as references:
 
